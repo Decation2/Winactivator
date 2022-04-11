@@ -14,5 +14,5 @@ Wait when program load
 
 Then choose key  
 
-For your version, for example, the home version, write there the key for the home version and then windows home edition (or other edition) is activated!
+For your version, for example, the home edition, write there the key for the home version and then windows home edition (or other edition) is activated!
 
