@@ -1,5 +1,7 @@
 ## Welcome to the Winactivator
 
+<html>
+
 Hi user of windows! 
 
 You probably asked how to activate windows for free?
