@@ -9,7 +9,10 @@ Download the Winactivator <a href="https://github.com/Decation2/Winactivator">
    <input type="button" value="Download here" />
 </a>
 Run it in administrator mode
+
 Wait when program load
+
 Then choose key  
+
 For your version, for example, the home version, write there the key for the home version and then windows home edition (or other edition) is activated!
 
